@@ -4,6 +4,4 @@ Welcome to git...
 
 feature 1 - Login
 
-Featyre 2 -- Logout huuyhh
-
-jgdjfghd yduhg
+Feature 2 -- Logout 
